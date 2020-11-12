@@ -1,5 +1,5 @@
 # VEC-Design  
-My website use VEC-Design : https://bre97-web.github.io/VEC_Design/index.html  
+My website use VEC-Design : https://bre97-web.github.io/VEC-Design/index.html  
   
 + INFORMATION
   * Name  
