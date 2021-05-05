@@ -9,8 +9,8 @@
   * Language  
     Choose a language you understand.  
     
-    | Language |  
-    | :---     |  
-    | [zh_Cn](https://www.?.com) "中文繁体-中国" |  
-    | [zh_Hans](https://www.?.com) "中文简体-中国大陆" |  
-    | [en_Us](https://www.?.com) "美式英语-美国" |  
+    | Language | Description                                        | 
+    | :---     | ---                                                | 
+    | [zh_Cn](https://www.?.com) | 中文繁體 - 中國                   |  
+    | [zh_Hans](https://www.?.com) | 中文简体 - 中国大陆             |  
+    | [en_Us](https://www.?.com) | American English - United States |  
