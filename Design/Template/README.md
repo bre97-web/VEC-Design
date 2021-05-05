@@ -9,8 +9,8 @@
   * Language  
     Choose a language you understand.  
     
-    | __Language__ |  
+    | Language |  
     | :---     |  
-    | ZH_CN    |  
-    | ZH_HANS  |  
-    | EN_US    |  
+    | [zh_Cn](https://www.?.com) "中文繁体-中国" |  
+    | [zh_Hans](https://www.?.com) "中文简体-中国大陆" |  
+    | [en_Us](https://www.?.com) "美式英语-美国" |  
