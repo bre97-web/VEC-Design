@@ -7,9 +7,9 @@
   So that I can understand, choose the right channel :   
   
   * Language  
-    > Choose a language you understand.  
-      |  Language |  
-      |  :----:   |  
-      |   ZH_CN   |  
-      |  ZH_HANS  |  
-      |   EN_US   |  
+    Choose a language you understand.  
+    | Language |  
+    | :---     |  
+    | ZH_CN    |  
+    | ZH_HANS  |  
+    | EN_US    |  
