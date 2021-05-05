@@ -8,7 +8,8 @@
   
   * Language  
     Choose a language you understand.  
-    | Language |  
+    
+    | __Language__ |  
     | :---     |  
     | ZH_CN    |  
     | ZH_HANS  |  
