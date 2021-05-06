@@ -1,5 +1,5 @@
 # Template.README  
-+ ## Update Logs
++ ## Update Logs.
   Provide README.md in two languages.  
 
 + ## News.
