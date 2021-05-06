@@ -1,8 +1,9 @@
-# VEC-Design  
-My website use VEC-Design : https://bre97-web.github.io/VEC-Design/index.html  
+# RMDUST-Design  
++ ## Update Logs.
+  Add new function.
+
++ ## News.  
+  Nothing.  
   
-+ INFORMATION
-  * Name  
-    VEC-Design
-  * Description 
-    Created this repository for I boring...
+# Documents  
+  [Used RMDUST-Design wensite](https://bre97-web.github.io)
